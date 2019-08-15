@@ -8,6 +8,8 @@ v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂�
 
 若本项目对您有所帮助，[欢迎Star](https://github.com/mwz1tn/free-v2ray)
 
+要特别注意的是：本地机器的时间要跟北京时间一致，误差不能超过2分钟，否则会失败
+
 # 目录
 - [前言](#前言)
 - [说好的免费V2ray](#说好的免费V2ray)
@@ -45,16 +47,6 @@ v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂�
 不会用点我[订阅怎么用？](https://www.bing.com/search?q=v2ray+%E8%AE%A2%E9%98%85&PC=U316&FORM=CHROMN)
 
 提示——打开网址全选，去[Base64解码](https://tool.chinaz.com/tools/base64.aspx)就是Vmess链接(提醒一下，是在右边粘贴)
-
-两个还可以用的ss
-
-```
-ss://YWVzLTI1Ni1jZmI6amp5RldReERQOUB3d3cueGlhb2h1b2ppYW4uY2Y6NTg5MTY=#US_1
-```
-```
-ss://YWVzLTI1Ni1jZmI6WGVNUG1LejVEZ0B4aWFvaHVvamlhbi5jZjo2MDAz#Us_2
-```
-
 
 ## 其他上网方式(备用)
 
