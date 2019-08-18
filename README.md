@@ -35,6 +35,15 @@ v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂�
 
 # 说好的免费V2ray
 
+```
+ss://YWVzLTI1Ni1jZmI6RkREIUAjMTIzQDEwNC4yNDguMTUxLjcyIDo2NDYyMg==#104.248.151.72+
+```
+
+
+```
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEwNC4yNDguMTUxLjcyIiwNCiAgImFkZCI6ICIxMDQuMjQ4LjE1MS43MiAiLA0KICAicG9ydCI6ICI2MjU4NiIsDQogICJpZCI6ICJiOGFmYzk4MC0zN2ZhLTRkYzctYjFiYy04MDk5ZTM0ODllODYiLA0KICAiYWlkIjogIjIzMyIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+```
+
 一般不能用的话从发现到更换需要几天(小概率)，多多见谅
 
 > Netflix/TVB/Hulu/HBO 访问解锁
