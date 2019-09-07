@@ -2,7 +2,7 @@
 v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂，但稳定性较好，不易被X
 
 有任何问题,建议都可以[向我提问](https://github.com/mwz1tn/free-v2ray/issues)
-或者给我发邮件[mzbskccn@gmail.com](Mailto://mzbskccn@gmail.com)
+
 
 个人水平有限，有哪里不对的地方，恳请指正
 
@@ -42,11 +42,12 @@ v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂�
 > ~~高达 1000Mbps速率可用~~。实测5MB/s上限
 
 **订阅地址**
+
 > https://freev2ray.netlify.com/
 
 不会用点我[订阅怎么用？](https://www.bing.com/search?q=v2ray+%E8%AE%A2%E9%98%85&PC=U316&FORM=CHROMN)
 
-提示——打开网址全选，去[Base64解码](https://tool.chinaz.com/tools/base64.aspx)就是Vmess链接(提醒一下，是在右边粘贴)
+提示——浏览器打开订阅地址全选，去[Base64解码](https://tool.chinaz.com/tools/base64.aspx)就是Vmess链接(提醒一下，是在右边粘贴)
 
 ## 其他上网方式(备用)
 
@@ -72,7 +73,9 @@ v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂�
 
 如果你没有太高需求就建议你别自己折腾了
 
-不妨直接购买v2ray服务，简单稳定省事，在这里强烈推荐[**墙裂**](./qianglie.md)
+不妨直接购买v2ray服务，简单稳定省事，在这里推荐[**墙裂**](./qianglie.md)
+
+要说的是墙裂现在的套餐已经没有性价比可言了
 
 [直接点我购买](https://aff.qianglie.org/aff.php?aff=627)
 
